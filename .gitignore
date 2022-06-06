@@ -1,0 +1,11 @@
+# MATLAB objects
+*.mat
+
+# virtual environment
+.venv/*
+
+# temporary files
+tmp/*
+
+# system files
+*.DS_Store
