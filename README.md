@@ -3,6 +3,7 @@
 Here is to display source code of graphs in the author's published papers on *Slow-Fast Systems*
 (a type of *Singularly Perturbed Differential Equations*)
 written in MATLAB scripts.
+The scripts were tested under MATLAB R2022a.
 
 ## [An Epidemic Model](./dcds-b-2020)
 
@@ -28,5 +29,5 @@ written in MATLAB scripts.
 [[doi:10.1137/19M1295507](https://doi.org/10.1137/19M1295507)]
 [[arXiv.1910.06318](https://arxiv.org/abs/1910.06318)]
 
-| [![fig_trade_off_gamma](sima-2021/fig_trade_off_gamma.png)](./sima-2021) | [![fig_trade_off_epsilon](sima-2021/fig_trade_off_epsilon.png)](./sima-2021) |
+| [![fig_trade_off_gamma](sima-2021/TradeOff/fig_TradeOff_singular.png)](./sima-2021) | [![fig_trade_off_epsilon](sima-2021/TradeOff/fig_TradeOff_nearby.png)](./sima-2021) |
 | -- | -- |
